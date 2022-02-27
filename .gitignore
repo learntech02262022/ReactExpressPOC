@@ -1,2 +1,4 @@
 # Project exclude paths
 /service/node_modules/
+*.iml
+/.idea
